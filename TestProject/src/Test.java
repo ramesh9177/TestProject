@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("this is my first java programme to commit in git Hub");
+		
+		System.out.println("this is my first java programme to commit in git Hub");
 
 	}
 

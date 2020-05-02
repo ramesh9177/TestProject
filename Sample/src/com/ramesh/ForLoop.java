@@ -12,6 +12,7 @@ public class ForLoop {
 		}
 		
 		System.out.println("Ramesh is now outside of the loop after " +i + " time(s)");
+		System.out.println("Ramesh is now outside of the loop after ");
 	}
 
 }
